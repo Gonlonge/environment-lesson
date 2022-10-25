@@ -1,3 +1,3 @@
-import joker from "/node_modules/one-liner-joke";
+import joker from "one-liner-joke";
 
 console.log(joker.getRandomJoke().body);
