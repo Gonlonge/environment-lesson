@@ -1,0 +1,25 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "Application that tells jokes, CSS only e-commerce application, Personal collection of useful functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gonlonge/environment-lesson.git"
+  },
+  "keywords": [
+    "css",
+    "e-commerce",
+    "portfolio",
+    "website"
+  ],
+  "author": "Gonzalo gonlonge@icloud.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gonlonge/environment-lesson/issues"
+  },
+  "homepage": "https://github.com/Gonlonge/environment-lesson#readme"
+}
