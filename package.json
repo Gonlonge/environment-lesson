@@ -3,6 +3,7 @@
   "version": "0.0.3",
   "description": "Application that tells jokes, CSS only e-commerce application, Personal collection of useful functions",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "node src/js/joker.js",
     "format": "prettier -w src/js/joker.js"
