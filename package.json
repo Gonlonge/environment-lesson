@@ -4,7 +4,7 @@
   "description": "Application that tells jokes, CSS only e-commerce application, Personal collection of useful functions",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "node src/js/joker.js"
   },
   "repository": {
     "type": "git",
